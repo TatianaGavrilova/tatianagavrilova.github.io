@@ -1,0 +1,13 @@
+# Site settings
+title: Tatiana Gavrilova
+description: Tatiana Gavrilova - Språklæerer
+email: me@TatianaGavrilova.com
+phone: (+47) 40728906
+address: "Trondheim, Norge"
+orgnumber: 123456789
+baseurl: ""
+name: TatianaGavrilova.com
+url: "http://TatianaGavrilova.com"
+
+# Build settings
+markdown: kramdown
