@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /contacts/
-long_title: Mitt kontakt info
+long_title: Min kontakt info
 ---
 <div class="container">
 <div class="row">
@@ -11,7 +11,7 @@ long_title: Mitt kontakt info
     <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
     <li>Phone: {{ site.phone }}</li>
     <li>Address: {{ site.address }}</li>
-    <li>Org. nummer: {{ site.orgnumber }}</li>
+    <li>Organisasjonsnummer: {{ site.orgnumber }}</li>
   </ul>
 </div>
 </div>

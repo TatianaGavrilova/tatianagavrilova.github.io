@@ -13,4 +13,5 @@ Priser finner du [her](/prices).
 
 Ta [kontakt](/contacts) med meg om du vil prøve eller har noen spørsmål.
 
-Med vennligst hilsen, Tatiana.
+Med vennligst hilsen<br/>
+Tatiana

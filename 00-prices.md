@@ -14,4 +14,4 @@ long_title: Priser
 
 * 300 NOK per elev
 
-Første gang er gratis.
+Du kan få den første timen gratis og bestemme deg om du vil fortsette.
