@@ -18,7 +18,7 @@ long_title: Mitt kontakt info
 
 ## Kontakt shjema
 
-<sup>Note: this form is powered by Google Forms and send information via secure communication channel.</sup>
+<sup>Note: this form is powered by Google Forms and send information via the secure communication channel.</sup>
 
 <div class="container">
   <div class="row">
