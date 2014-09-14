@@ -16,7 +16,7 @@ long_title: Min kontakt info
 </div>
 </div>
 
-## Kontakt shjema
+## Kontaktskjema
 
 <sup>Note: this form is powered by Google Forms and send information via the secure communication channel.</sup>
 
