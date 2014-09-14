@@ -7,7 +7,7 @@ long_title: Velkommen!
 
 Mitt navn er Tatiana Gavrilova. Jeg driver med privatundervisning i russisk på alle nivå. Jeg underviser både ved personlig møte (Trondheim) og on-line (via [Hangouts](https://www.google.com/+/learnmore/hangouts/), [Skype](http://www.skype.com/)).
 
-Begynner du å studere russisk eller snakker du godt og vil bare perfeksjonere din russisk, kan jeg hjelpe deg.
+Enten du ønsker å begynne med russisk eller snakker russisk godt og vil perfeksjonere språket, kan jeg hjelpe deg.
 
 Priser finner du [her](/prices).
 

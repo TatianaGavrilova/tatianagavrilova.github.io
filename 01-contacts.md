@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /contacts/
-long_title: Min kontakt info
+long_title: Kontaktinformasjon
 ---
 <div class="container">
 <div class="row">
