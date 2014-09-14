@@ -8,35 +8,33 @@ long_title: Kontaktinformasjon
 <div class="row">
   <ul class="contact-list">
     <li>{{ site.description }}</li>
-    <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    <li>Phone: {{ site.phone }}</li>
-    <li>Address: {{ site.address }}</li>
-    <li>Organisasjonsnummer: {{ site.orgnumber }}</li>
+    <li>E-post: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li>Mobiltelefon: {{ site.phone }}</li>
+    <li>Addresse: {{ site.address }}</li>
+    <li>Organisasjonsnummer: <a href="http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr={{ site.orgnumber }}">{{ site.orgnumber }}</a></li>
   </ul>
 </div>
 </div>
 
 ## Kontaktskjema
 
-<sup>Note: this form is powered by Google Forms and send information via the secure communication channel.</sup>
-
 <div class="container">
   <div class="row">
     <form role="form" action="https://docs.google.com/forms/d/1KN1BQ1HWdrGHOZ0njf2K3WXvjQWT8EyiQwBKqHcTz6Q/formResponse?embedded=true" method="POST" target="_self" onsubmit="">
     <div class="col-lg-4">
       <div class="form-group required">
-        <label for="InputName" class="control-label">Your Email or Phone</label>
+        <label for="InputName" class="control-label">E-post eller telefonnummer du kan nås på</label>
         <div class="input-group">
-          <input type="text" class="form-control" name="entry.203897919" id="InputName" placeholder="Enter Email or Phone" required>
+          <input type="text" class="form-control" name="entry.203897919" id="InputName" placeholder="Tast inn e-post eller telefonnummer" required>
           <span class="input-group-addon"></span></div>
       </div>
       <div class="form-group">
-        <label for="InputMessage" class="control-label">Message</label>
+        <label for="InputMessage" class="control-label">Melding</label>
         <div class="input-group">
-          <textarea name="entry.1247437116" id="InputMessage" class="form-control" rows="5" placeholder="Message"></textarea>
+          <textarea name="entry.1247437116" id="InputMessage" class="form-control" rows="5" placeholder="Melding"></textarea>
           <span class="input-group-addon"></span></div>
       </div>
-      <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-default pull-right">
+      <input type="submit" name="submit" id="submit" value="Send inn" class="btn btn-default pull-right">
 
         <input type="hidden" name="draftResponse"
             value="[,,&quot;7629806278334928560&quot;]">

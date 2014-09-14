@@ -4,7 +4,7 @@ title: Priser
 permalink: /prices/
 long_title: Priser
 ---
-#### Undervisning ved personnlig møte i Trondheim
+#### Undervisning ved personlig møte i Trondheim
 
 * 350 NOK per time (60 min) per elev
 * 500 NOK per time (60 min) per gruppe (2 elever)
