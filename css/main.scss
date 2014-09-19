@@ -48,8 +48,8 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-.form-group.required .control-label:after {
-   content:"(*)";
+.form-group.required .control-label:before {
+   content:"*";
    color:red;
 }
 

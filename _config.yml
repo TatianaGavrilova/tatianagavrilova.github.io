@@ -8,6 +8,12 @@ orgnumber: 914115183
 baseurl: ""
 name: TatianaGavrilova.com
 url: "http://TatianaGavrilova.com"
+i18n-lang-name: Norsk
+i18n-menu-home: Hjem
+i18n:
+  en:
+    name: English
+    home: Home
 
 # Build settings
 markdown: kramdown
