@@ -6,10 +6,18 @@ long_title: Personal information
 lang: en
 ---
 
-I graduated from [State University](http://eng.spbu.ru/) in St. Petersburg, Russia. My kvalifikasjon er «Lærer i russisk språk og litteratur. Lærer i russisk som fremmed språk». Jeg  har også tatt doktorgrad i sosiolingvistikk.
+I graduated from Saint Petersburg State University, Russia. My qualification
+is "Teacher in Russian language and literature. Teacher in Russian as a
+foreign language". I have also a PhD degree in sociolinguistics.
 
-From 2000 to 2010 jeg worked as a researcher and lærer i russisk som fremmedspråk i St. Petersburg (Russland). Jeg arbeidet med studenter fra forskjellige land med forskjellige nivå i russisk.
+From 2000 to 2010 I worked as a researcher and Russian language instructor in
+St. Petersburg (Russia). I have great experience in teaching students with
+different level in Russian.
 
-Siden 2013 har jeg jobbet som russisklærer ved foreningen ["Glad i læring"](https://www.facebook.com/Russiskskole) i Trondheim. I tillegg driver jeg med privatundervisning.
+Since 2013 I've worked as a Russian language instructor for children and
+adults in association “Glad i læring” in Trondheim. In addition to that i work
+as a private teacher. Her you can find full version of my CV.
 
-Min CV finner du [her](https://drive.google.com/file/d/0B-VKk52CRIswVFdoTWxZWGhxdms/edit?usp=sharing).
+[Here]({{ site.baseurl }}/cv/Tatiana_Gavrilova_CV_side_en.pdf) you can find
+full version of my CV in English.
+

@@ -9,9 +9,9 @@ Mitt navn er Tatiana Gavrilova. Jeg driver med privatundervisning i russisk på 
 
 Enten du ønsker å begynne med russisk eller snakker russisk godt og vil perfeksjonere språket, kan jeg hjelpe deg.
 
-Priser finner du [her](/prices).
+Priser finner du [her]({{ site.baseurl }}/prices).
 
-Ta [kontakt](/contacts) med meg om du ønsker en prøvetime eller har noen spørsmål.
+Ta [kontakt]({{ site.baseurl }}/contacts) med meg om du ønsker en prøvetime eller har noen spørsmål.
 
 Med vennligst hilsen<br/>
 Tatiana

@@ -5,7 +5,7 @@ permalink: /en/prices/
 long_title: Prices
 lang: en
 ---
-#### Private personal lessons in Trondheim
+#### Private lessons in Trondheim
 
 * 350 NOK per hour (60 min) per person
 * 500 NOK per hour (60 min) per group of 2 person
