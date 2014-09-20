@@ -11,7 +11,7 @@ Enten du ønsker å begynne med russisk eller snakker russisk godt og vil perfek
 
 Priser finner du [her]({{ site.baseurl }}/prices).
 
-Ta [kontakt]({{ site.baseurl }}/contacts) med meg om du ønsker en prøvetime eller har noen spørsmål.
+Ta [kontakt]({{ site.baseurl }}/contact) med meg om du ønsker en prøvetime eller har noen spørsmål.
 
 Med vennligst hilsen<br/>
 Tatiana

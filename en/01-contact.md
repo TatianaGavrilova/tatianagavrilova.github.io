@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacts
-permalink: /en/contacts/
+title: Contact
+permalink: /en/contact/
 long_title: Contact information
 lang: en
 tutor_label: language tutor

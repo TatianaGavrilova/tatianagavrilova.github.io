@@ -14,7 +14,7 @@ in Trondheim (Norway). You also can choose online lessons (via
 
 [Here]({{ site.baseurl }}/en/prices) you can find prices.
 
-Please [contact]({{site.baseurl}}/{{page.lang}}/contacts) me if you want to
+Please [contact]({{site.baseurl}}/{{page.lang}}/contact) me if you want to
 book time or ask any question about the lessons or  Russian language.
 
 Best regards, <br/>

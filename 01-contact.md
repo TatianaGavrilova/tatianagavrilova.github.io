@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /contacts/
+permalink: /contact/
 long_title: Kontaktinformasjon
 tutor_label: språklærer
 email_label: E-post
