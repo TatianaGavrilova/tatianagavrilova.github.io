@@ -4,7 +4,7 @@ title: Contact
 permalink: /en/contact/
 long_title: Contact information
 lang: en
-tutor_label: language tutor
+tutor_label: language teacher
 email_label: E-mail
 phone_label: Phone
 address_label: Address

@@ -4,7 +4,8 @@ permalink: /en/index.html
 long_title: Welcome!
 lang: en
 ---
-<img class="img-rounded" src="{{site.baseurl}}/images/photo.jpg"/>
+<img class="img-rounded" src="{{site.baseurl}}/images/photo.jpg"
+  alt="Tatiana Gavrilova"/>
 
 My name is Tatiana Gavrilova. I can offer you private lessons in Russian at
 any  level from beginner to professional. We can meet personally if you live
