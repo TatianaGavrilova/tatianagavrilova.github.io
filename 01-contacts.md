@@ -3,6 +3,7 @@ layout: page
 title: Kontakt
 permalink: /contacts/
 long_title: Kontaktinformasjon
+tutor_label: språklærer
 email_label: E-post
 phone_label: Mobiltelefon
 address_label: Addresse

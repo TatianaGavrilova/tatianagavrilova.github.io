@@ -3,7 +3,7 @@ layout: page
 long_title: Velkommen!
 ---
 
-<img class="img-rounded" src="/images/photo.jpg"/>
+<img class="img-rounded" src="{{ site.baseurl }}/images/photo.jpg"/>
 
 Mitt navn er Tatiana Gavrilova. Jeg driver med privatundervisning i russisk på alle nivå. Jeg underviser både ved personlig møte (Trondheim) og online (via [Hangouts](https://www.google.com/+/learnmore/hangouts/), [Skype](http://www.skype.com/)).
 

@@ -5,14 +5,14 @@ permalink: /en/prices/
 long_title: Prices
 lang: en
 ---
-#### Undervisning ved personlig møte i Trondheim
+#### Private personal lessons in Trondheim
 
-* 350 NOK per time (60 min) per elev
-* 500 NOK per time (60 min) per gruppe (2 elever)
-* 600 NOK per time (60 min) per grupper (3 eller flere elever)
+* 350 NOK per hour (60 min) per person
+* 500 NOK per hour (60 min) per group of 2 person
+* 600 NOK per hour (60 min) per group of 3 or more persons
 
-#### Fjernundervisning (online)
+#### Private online lessons
 
-* 300 NOK per time (60 min) per elev
+* 300 NOK per hour (60 min) per person
 
-Du kan få den første timen gratis og bestemme deg om du vil fortsette.
+You can have the first lesson for free and decide if you want to continue.

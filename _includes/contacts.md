@@ -1,7 +1,7 @@
 <div class="container">
 <div class="row">
   <ul class="contact-list">
-    <li>{{ site.description }}</li>
+    <li>{{ site.title }}, {{ page.tutor_label }}</li>
     <li>{{ page.email_label }}:
         <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
     <li>{{ page.phone_label }}: {{ site.phone }}</li>
