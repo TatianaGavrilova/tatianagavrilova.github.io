@@ -16,7 +16,7 @@
 <div class="container">
   <div class="row">
     <form role="form" action="https://docs.google.com/forms/d/1KN1BQ1HWdrGHOZ0njf2K3WXvjQWT8EyiQwBKqHcTz6Q/formResponse?embedded=true" method="POST" target="_self" onsubmit="">
-    <div class="col-xs-8 col-md-6">
+    <div class="col-xs-12 col-md-6">
         <div class="form-group required">
         <label for="InputName" class="control-label">{{ page.name_label }}</label>
         <div class="input-group">
