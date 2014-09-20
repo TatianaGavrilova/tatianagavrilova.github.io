@@ -25,11 +25,12 @@
           {% endif %}
         {% endfor %}
         {% if page.lang %}
-          <a class="page-link" href="{{ site.baseurl }}/">
+          <a class="page-link" href="{{page.url | remove_first: '/' | remove_first: page.lang | prepend: site.baseurl}}">
             {{site.i18n-lang-name}}</a>
         {% else %}
           {% for lang in site.i18n %}
-            <a class="page-link" href="{{ site.baseurl }}/{{ lang[0] }}">
+            <a class="page-link"
+            href="{{lang[0] | append: page.url | prepend: '/' | prepend: site.baseurl}}">
               {{ lang[1].name }}</a>
           {% endfor %}
         {% endif %}
