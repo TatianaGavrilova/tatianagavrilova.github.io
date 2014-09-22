@@ -14,4 +14,6 @@ long_title: Priser
 
 * 300 NOK per time (60 min) per elev
 
-Du kan få den første timen gratis og bestemme deg om du vil fortsette.
+Den første prøvetimen er gratis og uforpliktende.
+
+Undervisningstjenester er fritatt for merverdiavgift (mva).

@@ -5,17 +5,15 @@ permalink: /about/
 long_title: Personlig informasjon
 ---
 
-Jeg har utdannelse fra [Statsuniversitet](http://eng.spbu.ru/) i St.
-Petersburg (Russland). Min kvalifikasjon er «Lærer i russisk språk og
-litteratur. Lærer i russisk som fremmed språk». Jeg  har også tatt doktorgrad
-i sosiolingvistikk.
+Jeg har eksamen i russisk og pedagogikk, herunder russisk som andre- og
+fremmedspråk fra [Statsuniversitet](http://eng.spbu.ru/) i St. Petersburg. I
+2002 tok jeg doktorgrad i sosiolingvistikk.
 
-Fra 2000 til 2010 jobbet jeg som språkforsker og lærer i russisk som
-fremmedspråk i St. Petersburg (Russland). Jeg arbeidet med studenter fra
-forskjellige land med forskjellige nivå i russisk.
+I 2000 -- 2010 jobbet jeg som språkforsker og lærer i russisk for
+fremmedspråklige i St. Petersburg. Mine studenter kom fra flere land og befant
+seg på forskjellige nivå i russisk.
 
 Siden 2013 har jeg jobbet som russisklærer ved foreningen ["Glad i
-læring"](https://www.facebook.com/Russiskskole) i Trondheim. I tillegg driver
-jeg med privatundervisning.
+læring"](https://www.facebook.com/Russiskskole) i Trondheim. Jeg tilbyr også privatundervisning.
 
 Min CV finner du [her]({{ site.baseurl }}/cv/Tatiana_Gavrilova_CV.pdf).
