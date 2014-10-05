@@ -8,7 +8,7 @@ long_title: Priser
 
 * 350 NOK per time (60 min) per elev
 * 500 NOK per time (60 min) per gruppe (2 elever)
-* 600 NOK per time (60 min) per grupper (3 eller flere elever)
+* 600 NOK per time (60 min) per gruppe (3 eller flere elever)
 
 #### Fjernundervisning (online)
 
